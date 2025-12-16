@@ -101,15 +101,7 @@ Currently focusing on **Full-stack development, DevOps practices, and cloud deve
 <a href="https://github.com/Ashan-Edirisinghe">
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" />
 </a>
-<a href="https://github.com/Ashan-Edirisinghe">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" />
-</a>
-<a href="https://github.com/Ashan-Edirisinghe">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" />
-</a>
-
  
-
 
 ---
 
@@ -120,5 +112,5 @@ Currently focusing on **Full-stack development, DevOps practices, and cloud deve
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=fff)](mailto:ashanedirisingheugc@gmail.com)
 
 ---
-✨ *“Code is like humor. When you have to explain it, it’s bad.”*  
+✨ * " First, solve the problem. Then, write the code."*  
  
