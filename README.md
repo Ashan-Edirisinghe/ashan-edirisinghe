@@ -1,5 +1,7 @@
-# Hi there, I'm Ashan Edirisinghe  
+ ![Hi I'm Ashan](https://capsule-render.vercel.app/api?type=venom&height=200&text=Hi,%20I'm%20Ashan%20Edirisinghe&fontSize=60&color=0:5a3cc0,100:8e6de8&stroke=8e6de8&fontColor=ffffff&animation=fadeIn) 
 
+
+<
 <!--
 *ashan edirisinghe is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
