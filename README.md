@@ -71,24 +71,21 @@ Currently focusing on **Full-stack development, DevOps practices, and cloud deve
 
 ## 🚀 Projects  
 
-🔹 [**HR Website**](https://github.com/BimsaraWickramanayaka/AgriGift) –  A leave request managment website for employees in zonal education office in mulatiyana.  
+🔹 [**HR Website**](https://github.com/Ashan-Edirisinghe/HR-zonal-edu) –  A leave request managment website for employees in zonal education office in mulatiyana.  
 
-🔹 [**Student Management System**](https://github.com/Sachindu-Nethmin/FOG-SM) – A system for managing student enrollment, timeline, and academic performance using Laravel Framework.  
+🔹 [**Student Management System**]( https://github.com/Ashan-Edirisinghe/FOG-VLE) – A system for managing student enrollment, timeline, and academic performance using Laravel Framework.  
 
-🔹 **Smart Agriculture Platform (Mobile App)**  
-&nbsp;&nbsp;&nbsp;&nbsp;📱 [Frontend](https://github.com/KavinduAluthwaththa/Capstone-Project-Frontend) – Built with Flutter for modern mobile experience.  
-&nbsp;&nbsp;&nbsp;&nbsp;⚙️ [Backend](https://github.com/KavinduAluthwaththa/Capstone-Project-Backend) – Powered by C#/.NET framework with robust APIs.  
  
 🔹 [**Solid Weddings**](https://github.com/Sachindu-Nethmin/solidweddings) – A professional photography website showcasing portfolio highlights and client galleries.  
 
-🔹 [**Movie Search App**](https://github.com/BimsaraWickramanayaka/Movie_search_app) – A full-stack platform enabling users to browse trending films and search for titles in real time using TMDB API.  
+🔹 [**Movie Search App**]( https://github.com/Ashan-Edirisinghe/movie-web) – A full-stack platform enabling users to browse trending films and search for titles in real time using TMDB API.  
 
-🔹 [**E-COMMERCE REST API**](https://github.com/BimsaraWickramanayaka/Dockerized-todo-app) –An E-commerce REST API designed for managing basic operations in a web store.. 
+🔹 [**E-COMMERCE REST API**]( https://github.com/Ashan-Edirisinghe/ecommerce-api) –An E-commerce REST API designed for managing basic operations in a web store.. 
 
-🔹 [**News-Blog**](https://github.com/BimsaraWickramanayaka/Dockerized-todo-app) –A community website to post local news
+🔹 [**News-Blog**]( https://github.com/Ashan-Edirisinghe/social-media-web) –A community website to post local news
 
 
-🔹 [**Job Posting Website**](https://github.com/BimsaraWickramanayaka/Dockerized-todo-app) –Hire-Me is a website to post jobs and users can apply for vacancies.
+🔹 [**Job Posting Website**]( https://github.com/Ashan-Edirisinghe/prisma-project) –Hire-Me is a website to post jobs and users can apply for vacancies.
 
 
 
