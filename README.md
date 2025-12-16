@@ -64,8 +64,8 @@ Currently focusing on **Full-stack development, DevOps practices, and cloud deve
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BimsaraWickramanayaka&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BimsaraWickramanayaka&layout=compact&theme=tokyonight) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashan-Edirisinghe&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashan-Edirisinghe&layout=compact&theme=tokyonight) 
 
 ---
 
@@ -96,8 +96,8 @@ Currently focusing on **Full-stack development, DevOps practices, and cloud deve
 
 ## 🏆 Badges & Achievements  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=BimsaraWickramanayaka&theme=tokyonight)  
-![Trophies](https://github-profile-trophy.vercel.app/?username=BimsaraWickramanayaka&theme=tokyonight&no-frame=true&margin-w=15)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Ashan-Edirisinghe&theme=tokyonight)  
+![Trophies](https://github-profile-trophy.vercel.app/?username=Ashan-Edirisinghe&theme=tokyonight&no-frame=true&margin-w=15)  
 
 ### Special GitHub Badges  
 
